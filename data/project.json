@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "LLBRegistrar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257822718?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "LLBRegistrar",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-01-29T16:31:22.607Z",
-    "updated_at": "2026-01-29T16:31:22.607Z"
-  }
+    "updated_at": "2026-01-29T16:31:22.607Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "3a1a75fa-8846-4afe-8b8e-b7d6022a83df": {
+      "content": [],
+      "created_at": "2026-01-29T16:31:22.627Z",
+      "created_by": "LLBRegistrar",
+      "title": "LLB Oral Histories",
+      "updated_at": "2026-01-29T16:31:22.627Z",
+      "updated_by": "LLBRegistrar",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "3a1a75fa-8846-4afe-8b8e-b7d6022a83df"
+  ]
 }
